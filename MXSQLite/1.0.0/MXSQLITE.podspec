@@ -24,7 +24,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/mhqamx/MXSQLite.git"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author             = { "maxiao" => "maxiao@seaway.net.cn" }
+  spec.author             = { "maxiao" => "845423794@qq.com" }
   spec.platform     = :ios, "8.0"
   spec.source       = { :git => "https://github.com/mhqamx/MXSQLite.git", :tag => "#{spec.version}" }
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
